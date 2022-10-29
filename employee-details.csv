@@ -1,0 +1,24 @@
+employeeNumber,lastName,officeCode,jobTitle,city,state,country
+1002,Murphy,1,President,"San Francisco",CA,USA
+1056,Patterson,1,"VP Sales","San Francisco",CA,USA
+1076,Firrelli,1,"VP Marketing","San Francisco",CA,USA
+1088,Patterson,6,"Sales Manager (APAC)",Sydney,NULL,Australia
+1102,Bondur,4,"Sale Manager (EMEA)",Paris,NULL,France
+1143,Bow,1,"Sales Manager (NA)","San Francisco",CA,USA
+1165,Jennings,1,"Sales Rep","San Francisco",CA,USA
+1166,Thompson,1,"Sales Rep","San Francisco",CA,USA
+1188,Firrelli,2,"Sales Rep",Boston,MA,USA
+1216,Patterson,2,"Sales Rep",Boston,MA,USA
+1286,Tseng,3,"Sales Rep",NYC,NY,USA
+1323,Vanauf,3,"Sales Rep",NYC,NY,USA
+1337,Bondur,4,"Sales Rep",Paris,NULL,France
+1370,Hernandez,4,"Sales Rep",Paris,NULL,France
+1401,Castillo,4,"Sales Rep",Paris,NULL,France
+1501,Bott,7,"Sales Rep",London,NULL,UK
+1504,Jones,7,"Sales Rep",London,NULL,UK
+1611,Fixter,6,"Sales Rep",Sydney,NULL,Australia
+1612,Marsh,6,"Sales Rep",Sydney,NULL,Australia
+1619,King,6,"Sales Rep",Sydney,NULL,Australia
+1621,Nishi,5,"Sales Rep",Tokyo,Chiyoda-Ku,Japan
+1625,Kato,5,"Sales Rep",Tokyo,Chiyoda-Ku,Japan
+1702,Gerard,4,"Sales Rep",Paris,NULL,France
